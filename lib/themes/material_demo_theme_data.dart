@@ -31,7 +31,7 @@ class MaterialDemoThemeData {
   );
 
   static const _colorScheme = ColorScheme(
-    primary: Color(0xFF6200EE),
+    primary: Color(0xFFEEFF41),
     primaryVariant: Color(0xFF6200EE),
     secondary: Color(0xFFFF5722),
     secondaryVariant: Color(0xFFFF5722),
